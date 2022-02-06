@@ -1,0 +1,1 @@
+WarmUp2 aims to let student familiar with mesh creation(triangle level) and the random seeds. In the spector window, the random seeds' number can be changed to rearrange the postion of these tetrahedrons
