@@ -3,6 +3,7 @@ This is the work showcase repository for Course, CS4803, Procedural Content Gene
 
 
 Warm-Up 1: Object Creation
+
 Warm-Up 2: Scripts and Meshes
 
 Project 1: Terrain, Streets, or Dungeons
