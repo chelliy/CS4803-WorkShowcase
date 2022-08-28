@@ -9,3 +9,6 @@ There are two different styles of doors and two different styles of windows for 
 The buildings demonstrate two different roof styles. 
 
 Used one visual element of the buildings created through the use of texture maps
+
+
+![sample](/project2/sample.png)
