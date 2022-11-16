@@ -1,5 +1,5 @@
 # CS4803(Procedural Content Generation)-WorkShowcase
-This is the work showcase repository for Course, CS4803, Procedural Content Generation. No Code will be share. And none of this should be used as a homework solution. Plz follow honor code
+This is the work showcase repository for class CS4803, Procedural Content Generation. None of this should be used as a homework solution. Plz follow honor code
 
 
 Warm-Up 1: Object Creation
