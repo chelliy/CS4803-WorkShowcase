@@ -1,1 +1,1 @@
-code can be found in asset/script
+code can be found in assets/script
