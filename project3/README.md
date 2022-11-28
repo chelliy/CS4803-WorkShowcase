@@ -1,3 +1,6 @@
+
+(build file include downable simple working demo) (project_work is the whole project file including source code)
+
 This project will automatically create a variety of creatures. 
 
 Category:Mysterou creatures (like Dinosaurs)
